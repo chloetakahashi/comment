@@ -11,6 +11,7 @@ define('DB_NAME', 'bychngiz_php-feedback');
 
 //create connection
 $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
+mysqli_set_charset($conn, "utf8");
 
 // check connection
 if ($conn->connect_error) {

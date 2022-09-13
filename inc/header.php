@@ -1,5 +1,9 @@
 <!DOCTYPE html>
+<<<<<<< HEAD
 <html lang="ja">
+=======
+<html lang="jp">
+>>>>>>> 6526a0f5d06fa866ccdb717bc9f15a74e92ed592
 
 <head>
     <meta charset="UTF-8" http-equiv="Content-Type" content="text/html">
