@@ -1,5 +1,3 @@
-<?php include 'config/database.php'; ?>
-
 <!DOCTYPE html>
 <html lang="ja">
 
